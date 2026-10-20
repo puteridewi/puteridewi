@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 Java, HTML, CSS, Git, GitHub
 
 ## Projects
-- Final year project : Machine learning-based food waste prevention system through predictive spoilage risk assessment and inventory prioritization
+- Final year project : (food-prevention-system)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/puteri-iazmee-277718321

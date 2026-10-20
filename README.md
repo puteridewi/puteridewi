@@ -4,15 +4,15 @@ Computer Science student at UiTM interested in software engineering and AI.
 
 ## About me
 - Studying: Bachelor of Computer Science , UiTM
-- Currently learning: Machine Learning
-- My FYP area: still deciding 
+- Currently learning: Agile methods, Git and GitHub
+- My FYP area: Machine learning and predictive analytics
 
 ## Skills and tools
-Python, Git, SQL
+Java, HTML, CSS, Git, GitHub
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- Final year project : Machine learning-based food waste prevention system through predictive spoilage risk assessment and inventory prioritization
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/puteri-iazmee-277718321
 - Email: puteriazm@gmail.com

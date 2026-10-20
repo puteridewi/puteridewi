@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 Java, HTML, CSS, Git, GitHub
 
 ## Projects
-- Final year project : food-prevention-system
+- Final year project : https://github.com/puteridewi/food-waste-prevention
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/puteri-iazmee-277718321
